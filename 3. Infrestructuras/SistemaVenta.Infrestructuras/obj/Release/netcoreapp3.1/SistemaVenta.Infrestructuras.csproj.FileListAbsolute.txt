@@ -1,0 +1,15 @@
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\bin\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.deps.json
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\bin\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.runtimeconfig.json
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\bin\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.runtimeconfig.dev.json
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\bin\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\bin\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.pdb
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\bin\Release\netcoreapp3.1\SistemaVenta.Core.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\bin\Release\netcoreapp3.1\SistemaVenta.Core.pdb
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\obj\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.csprojAssemblyReference.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\obj\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.AssemblyInfoInputs.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\obj\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.AssemblyInfo.cs
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\obj\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\obj\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.csproj.CopyComplete
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\obj\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\obj\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.pdb
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\3. Infrestructuras\SistemaVenta.Infrestructuras\obj\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.genruntimeconfig.cache

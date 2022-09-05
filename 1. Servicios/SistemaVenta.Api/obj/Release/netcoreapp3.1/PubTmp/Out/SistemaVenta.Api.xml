@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SistemaVenta.Api</name>
+    </assembly>
+    <members>
+        <member name="M:SistemaVenta.Api.Controllers.AutorizacionController.Token(SistemaVenta.Core.DTOs.UsuarioDTO)">
+            <summary>
+            Valida usuario y contraseña para obtener Token
+            </summary>
+            <param name="usuarioDTO">ingresar cuenta y contraña</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaVenta.Api.Controllers.ProductoController.GetProductos(SistemaVenta.Core.QueryFilters.ProductoQueryFilter)">
+            <summary>
+            Devuelve todos los productos
+            </summary>
+            <param name="filter">datos para los filtros y paginacion</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaVenta.Api.Controllers.ProductoController.GetProducto(System.Int32)">
+            <summary>
+            Busqueda de Producto por id
+            </summary>
+            <param name="id">Id de producto</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaVenta.Api.Controllers.ProductoController.InsertProducto(SistemaVenta.Core.DTOs.ProductoDTO)">
+            <summary>
+            Registro del Producto
+            </summary>
+            <param name="productoDTO">Datos del Producto</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaVenta.Api.Controllers.ProductoController.UpdateProducto(SistemaVenta.Core.DTOs.ProductoDTO)">
+            <summary>
+            Actualizar Producto
+            </summary>
+            <param name="productoDTO">Datos del Productos</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaVenta.Api.Controllers.ProductoController.DeleteProducto(System.Int32)">
+            <summary>
+            Eliminar Producto
+            </summary>
+            <param name="id">Id del Procuto</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

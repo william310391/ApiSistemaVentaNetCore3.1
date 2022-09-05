@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+    <NoWarn>$(NoWarn);0649</NoWarn>
+    <UserSecretsId>ab497417-5525-40f1-8f35-71c4061f239c</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\2. Negocios\SistemaVenta.Negocio\SistemaVenta.Negocio.csproj" />
+    <ProjectReference Include="..\..\4. Core\SistemaVenta.Core\SistemaVenta.Core.csproj" />
+  </ItemGroup>
+
+
+</Project>

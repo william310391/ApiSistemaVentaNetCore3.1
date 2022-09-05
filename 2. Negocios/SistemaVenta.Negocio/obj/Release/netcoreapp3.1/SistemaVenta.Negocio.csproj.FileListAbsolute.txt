@@ -1,0 +1,14 @@
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\bin\Release\netcoreapp3.1\SistemaVenta.Negocio.deps.json
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\bin\Release\netcoreapp3.1\SistemaVenta.Negocio.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\bin\Release\netcoreapp3.1\SistemaVenta.Negocio.pdb
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\bin\Release\netcoreapp3.1\SistemaVenta.Core.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\bin\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\bin\Release\netcoreapp3.1\SistemaVenta.Infrestructuras.pdb
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\bin\Release\netcoreapp3.1\SistemaVenta.Core.pdb
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\obj\Release\netcoreapp3.1\SistemaVenta.Negocio.csprojAssemblyReference.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\obj\Release\netcoreapp3.1\SistemaVenta.Negocio.AssemblyInfoInputs.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\obj\Release\netcoreapp3.1\SistemaVenta.Negocio.AssemblyInfo.cs
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\obj\Release\netcoreapp3.1\SistemaVenta.Negocio.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\obj\Release\netcoreapp3.1\SistemaVenta.Negocio.csproj.CopyComplete
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\obj\Release\netcoreapp3.1\SistemaVenta.Negocio.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\2. Negocios\SistemaVenta.Negocio\obj\Release\netcoreapp3.1\SistemaVenta.Negocio.pdb

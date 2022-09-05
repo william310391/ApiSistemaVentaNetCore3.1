@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ejemplos NET 6\\SistemaVenta\\1. Servicios\\SistemaVenta.Api\\SistemaVenta.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\ejemplos NET 6\\SistemaVenta\\1. Servicios\\SistemaVenta.Api\\SistemaVenta.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ejemplos NET 6\\SistemaVenta\\1. Servicios\\SistemaVenta.Api\\SistemaVenta.Api.csproj",
+        "projectName": "SistemaVenta.Api",
+        "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\1. Servicios\\SistemaVenta.Api\\SistemaVenta.Api.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "E:\\ejemplos NET 6\\SistemaVenta\\1. Servicios\\SistemaVenta.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\ejemplos NET 6\\SistemaVenta\\2. Negocios\\SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj": {
+                "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\2. Negocios\\SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj"
+              },
+              "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj": {
+                "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ejemplos NET 6\\SistemaVenta\\2. Negocios\\SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ejemplos NET 6\\SistemaVenta\\2. Negocios\\SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj",
+        "projectName": "SistemaVenta.Negocio",
+        "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\2. Negocios\\SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "E:\\ejemplos NET 6\\SistemaVenta\\2. Negocios\\SistemaVenta.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\ejemplos NET 6\\SistemaVenta\\3. Infrestructuras\\SistemaVenta.Infrestructuras\\SistemaVenta.Infrestructuras.csproj": {
+                "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\3. Infrestructuras\\SistemaVenta.Infrestructuras\\SistemaVenta.Infrestructuras.csproj"
+              },
+              "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj": {
+                "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ejemplos NET 6\\SistemaVenta\\3. Infrestructuras\\SistemaVenta.Infrestructuras\\SistemaVenta.Infrestructuras.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ejemplos NET 6\\SistemaVenta\\3. Infrestructuras\\SistemaVenta.Infrestructuras\\SistemaVenta.Infrestructuras.csproj",
+        "projectName": "SistemaVenta.Infrestructuras",
+        "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\3. Infrestructuras\\SistemaVenta.Infrestructuras\\SistemaVenta.Infrestructuras.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "E:\\ejemplos NET 6\\SistemaVenta\\3. Infrestructuras\\SistemaVenta.Infrestructuras\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj": {
+                "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj",
+        "projectName": "SistemaVenta.Core",
+        "projectPath": "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\SistemaVenta.Core.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "E:\\ejemplos NET 6\\SistemaVenta\\4. Core\\SistemaVenta.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

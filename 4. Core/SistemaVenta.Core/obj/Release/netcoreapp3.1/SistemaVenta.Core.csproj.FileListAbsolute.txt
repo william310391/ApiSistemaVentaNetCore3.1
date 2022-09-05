@@ -1,0 +1,9 @@
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\bin\Release\netcoreapp3.1\SistemaVenta.Core.deps.json
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\bin\Release\netcoreapp3.1\SistemaVenta.Core.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\bin\Release\netcoreapp3.1\SistemaVenta.Core.pdb
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\obj\Release\netcoreapp3.1\SistemaVenta.Core.csprojAssemblyReference.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\obj\Release\netcoreapp3.1\SistemaVenta.Core.AssemblyInfoInputs.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\obj\Release\netcoreapp3.1\SistemaVenta.Core.AssemblyInfo.cs
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\obj\Release\netcoreapp3.1\SistemaVenta.Core.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\obj\Release\netcoreapp3.1\SistemaVenta.Core.dll
+D:\PROYECTOS\proyecto_personal\SistemaVenta_V2\SistemaVenta\4. Core\SistemaVenta.Core\obj\Release\netcoreapp3.1\SistemaVenta.Core.pdb
